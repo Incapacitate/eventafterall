@@ -1,6 +1,6 @@
 # Event After All ! From THP, Week 6
 
-Ready to take part from the Event After All ? Made with weird code from Caen.
+Ready to take part in the Event After All ? Made with weird code from Caen.
 
 By Dylan Langlois (Dylan LH on Slack) & Salomé d'Audeteau (Fihiz on Slack)
 
