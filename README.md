@@ -1,25 +1,23 @@
-# README
+# Event After All ! From THP, Week 6
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ready to take part from the Event After All ? Made with weird code from Caen. 
+By Dylan Langlois (Dylan LH on Slack) & Salomé d'Audeteau (Fihiz on Slack)
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+You'll have to practice the famous Bundle Install. Then a cool db:create, to finish with a bad db:migrate.
 
-* Database creation
 
-* Database initialization
+## Running the tests
 
-* How to run the test suite
+A coooooool Rspec (which with any doubt, doesn't really work...)
 
-* Services (job queues, cache servers, search engines, etc.)
+## Built With
 
-* Deployment instructions
+* Love
+* Shit code
 
-* ...
-# eventafterall
