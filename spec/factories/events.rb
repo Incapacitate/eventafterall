@@ -6,5 +6,6 @@ FactoryBot.define do
     description { "MyText" }
     price { 1 }
     location { "MyString" }
+    user_id {All.sample}
   end
 end
